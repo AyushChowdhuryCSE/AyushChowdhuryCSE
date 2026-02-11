@@ -12,7 +12,7 @@ Building scalable products • Solving real-world problems
 
 ---
 
-<!-- ================= PROFILE VIEWS ================= -->
+<!-- ================= PROFILE VIEWS ================== -->
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=ayushchowdhurycse&label=Profile%20Views&color=0e75b6&style=flat" />
