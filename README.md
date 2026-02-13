@@ -20,7 +20,7 @@ Building scalable products • Solving real-world problems
 
 ---
 
-<!-- ================= CODING GIF ================= -->
+<!-- ================= CODING GIF ==================== -->
 
 <img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
